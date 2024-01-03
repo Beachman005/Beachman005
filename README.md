@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...reasonable conversations
 - 🌱 I’m currently learning ...web3 and coding 
 - 💞️ I’m looking to collaborate on ...nice projects 
-- 📫 How to reach me ...twitter @My_Kinda_Nigga
+- 📫 How to reach me ...twitter @beachman0055
 
 <!---
 Beachman005/Beachman005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
